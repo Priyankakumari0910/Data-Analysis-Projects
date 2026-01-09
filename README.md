@@ -11,7 +11,7 @@ This repository showcases two data analytics projects completed during my intern
 # Banking Data Dashboard (Credit & Debit)
 - Cleaned and validated banking transaction datasets (credit and debit) for accuracy and consistency.
 - Defined KPIs for fraud/risk detection, transaction method analysis, and customer usage patterns.
-- Built dashboards in Power BI, Tableau, and SQL with drill‑downs and filters to highlight suspicious transactions and credit vs. debit trends.
+- Built dashboards in Excel, Power BI, Tableau, and SQL with drill‑downs and filters to highlight suspicious transactions and credit vs. debit trends.
 - Documented KPI logic and presented findings with polished visualizations for executives and non‑technical stakeholders.
 
 
